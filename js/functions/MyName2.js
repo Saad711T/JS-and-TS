@@ -1,5 +1,5 @@
 function MyName(name) {
-console.log(10)
+console.log(10);
 console.log(name);
 }
 
